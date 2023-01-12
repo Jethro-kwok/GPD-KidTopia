@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class CrawlingBaby : MonoBehaviour
 {
-    private Vector3 directionVector;
+   /* private Vector3 directionVector;
     private Transform myTransform;
     public float speed;
     private Rigidbody2D rb;
@@ -84,5 +84,5 @@ public class CrawlingBaby : MonoBehaviour
             loops++;
             ChangeDir();
         }
-    }
+    }*/
 }
